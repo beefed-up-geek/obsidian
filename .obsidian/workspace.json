@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a01175f1d142f924",
+        "id": "34d3904743b638a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c87c8e79e49950e4",
+            "id": "7b7a578509b9951d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Lectures/2025 CS231n(CV)/Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Lecture 2"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#이동할",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Lectures/2025 CS231n(CV)/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Lecture 2"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Lectures/2025 CS231n(CV)/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from Lecture 2"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Lectures/2025 CS231n(CV)/Lecture 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Lecture 2"
             }
           },
           {
@@ -154,13 +154,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "4cf2dc740d74b169",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +179,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c87c8e79e49950e4",
+  "active": "7b7a578509b9951d",
   "lastOpenFiles": [
-    "test.md",
+    "Untitled/마크다운 작성 방법.md",
+    "Lectures/2025 CS231n(CV)/Lecture 2.md",
+    "Lectures/2025 CS231n(CV)/README.md",
+    "Attached_files/Screenshot 2025-01-20 at 4.08.24 PM.png",
+    "Attached_files/Screenshot 2025-01-20 at 4.05.12 PM.png",
+    "Attached_files/Screenshot 2025-01-20 at 3.53.53 PM.png",
+    "Attached_files/Screenshot 2025-01-20 at 3.38.53 PM.png",
+    "Lectures/2024-2 ICE3045(기계학습개론)",
+    "2024-2",
+    "Attached_files/Screenshot 2025-01-20 at 2.24.26 PM.png",
+    "Lectures/2025 CS224n(NLP)",
+    "Lectures/2025 CS231n(CV)",
     "Untitled",
     "Papers",
     "Lectures",

@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Attached_files",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
